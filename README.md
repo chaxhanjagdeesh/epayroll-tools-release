@@ -19,19 +19,8 @@
 
 ## Current Version
 
-**v1.3.1**
+**v1.3.2**
 
-The latest Windows installer is available from the latest GitHub Release.
-
-### Download
-
-:contentReference[oaicite:0]{index=0}
-
-Download:
-
-**`ePayroll-Tools-Setup-1.3.1.exe`**
-
----
 
 ## Features
 
